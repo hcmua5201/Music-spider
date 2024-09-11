@@ -1,1 +1,11 @@
 # Music-spider
+## 简介
+爬取(http://music.2t58.com)网站音乐中歌曲的名称、歌手、专辑等信息。
+## 依赖
+requests
+beautifulsoup4
+## 运行环境
+Python3.12
+## 使用方法
+1. 安装依赖包：pip install -r requirements.txt
+2. 运行main.py即可

@@ -103,7 +103,4 @@ def get_song_list(url, singer, AllPage):
                     executor.submit(download_song, song_name, song_download_key)
 
 
-if __name__ == "__main__":
-    TotalData = get_total_data(url, singer)
-    AllPage = get_all_page(TotalData)
-    get_song_list(url, singer, AllPage)
+
