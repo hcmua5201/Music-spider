@@ -1,6 +1,7 @@
 # Music-spider
 ## 简介
-搜索歌曲或者作者名称，爬取(http://music.2t58.com)网站对应的音乐信息并下载保存
+搜索歌曲或者作者名称，爬取(http://music.2t58.com)
+网站对应的音乐信息并下载保存
 ## 依赖
 requests
 beautifulsoup4
